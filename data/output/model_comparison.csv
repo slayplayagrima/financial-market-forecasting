@@ -1,0 +1,5 @@
+Model,RMSE,MAPE (%)
+"ARIMA(5,1,0)",45.13,14.94
+Baseline Prophet,33.09,10.91
+Flexible Tuned Prophet,23.36,7.28
+Stable Tuned Prophet,21.28,7.43
