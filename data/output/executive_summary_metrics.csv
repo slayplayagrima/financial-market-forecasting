@@ -1,0 +1,7 @@
+Metric,Value
+Assets Analyzed,"AAPL, MSFT, SPY"
+Historical Window,5 Years
+Best Forecast Model,Stable Tuned Prophet
+Final Model RMSE,21.28
+Final Model MAPE,7.43%
+Forecast Horizon,90 Business Days
